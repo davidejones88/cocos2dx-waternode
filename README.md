@@ -2,7 +2,7 @@
 A ready-to-go cocos2dx (3.x) Node to simulate 2d water effect with splash capabilities
 
 # Example
-![cocos2dx-WaterNode](http://lmsotfy.com/so.png)
+![cocos2dx-WaterNode](https://raw.githubusercontent.com/davidejones88/cocos2dx-WaterNode/master/example.png)
 
 # How to use
 To create the WaterNode, simply import "WaterNode.hpp" and create it using
