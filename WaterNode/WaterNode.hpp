@@ -30,7 +30,7 @@
 
 // define the constants that are going to define the water surface behaviour
 static const int kColumnCount = 80;
-static const int kWaterHeight = 500;
+static const int kWaterHeight = 150;
 static const float kTension = 0.025;
 static const float kDampening = 0.025;
 static const float kSpread = 0.25;

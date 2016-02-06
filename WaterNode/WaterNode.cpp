@@ -24,7 +24,6 @@
 /*
  *  Original code from https://github.com/mrMakaronka/ios-2d-water-simulation
  */
-#include "CustomGlobals.h"
 #include "WaterColumn.hpp"
 #include "WaterNode.hpp"
 
@@ -36,7 +35,7 @@ bool WaterNode::init()
     Node::init();
     
     // setup the node information and the columsn (WaterColumn)
-    scale = CustomGlobals::visibleSize.width/(kColumnCount - 1);
+    scale = Director::getInstance()->getVisibleSize().width/(kColumnCount - 1);
     this->initColors();
     this->initColumns();
     
