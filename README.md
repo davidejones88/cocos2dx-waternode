@@ -1,5 +1,5 @@
 # cocos2dx-WaterNode
-A ready-to-go cocos2dx (3.x) Node to simulate 2d water effect with splash capabilities
+A ready-to-go cocos2dx (3.9) Node to simulate 2d water effect with splash capabilities
 
 # Example
 ![cocos2dx-WaterNode](https://raw.githubusercontent.com/davidejones88/cocos2dx-WaterNode/master/example.png)
@@ -29,6 +29,9 @@ static const float kSpread = 0.25;
 static cocos2d::Color4B topColor = cocos2d::Color4B(0, 50, 200, 255);
 static cocos2d::Color4B bottomColor = cocos2d::Color4B(0, 50, 100, 100);
 ```
+
+# Compatibility 
+The code was written and tested on cocos2dx 3.9
 
 # Credits
 This code was ported from https://github.com/mrMakaronka/ios-2d-water-simulation
