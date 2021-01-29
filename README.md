@@ -1,4 +1,4 @@
-# cocos2dx-WaterNode
+# cocos2dx-waternode
 A ready-to-go cocos2dx (3.9) Node to simulate 2d water effect with splash capabilities
 
 # Example
