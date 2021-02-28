@@ -30,11 +30,12 @@ static cocos2d::Color4B topColor = cocos2d::Color4B(0, 50, 200, 255);
 static cocos2d::Color4B bottomColor = cocos2d::Color4B(0, 50, 100, 100);
 ```
 
-## Build with 
-The code was written and tested on cocos2dx 3.9
+## Built with 
+cocos2dx 3.9
 
 ## Authors
-This code was ported from https://github.com/mrMakaronka/ios-2d-water-simulation
+* **Davide Jones** - *Porting*
+* **Artem Trofimov** - *Initial work* - [ios-2d-water-simulation](https://github.com/mrMakaronka/ios-2d-water-simulation)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
