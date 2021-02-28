@@ -1,10 +1,10 @@
 # cocos2dx-waternode
 A ready-to-go cocos2dx (3.9) Node to simulate 2d water effect with splash capabilities
 
-# Example
+## Example
 ![cocos2dx-WaterNode](https://raw.githubusercontent.com/davidejones88/cocos2dx-WaterNode/master/example.png)
 
-# How to use
+## How to use
 To create the WaterNode, simply import "WaterNode.hpp" and create it using
 
 ```
@@ -30,8 +30,11 @@ static cocos2d::Color4B topColor = cocos2d::Color4B(0, 50, 200, 255);
 static cocos2d::Color4B bottomColor = cocos2d::Color4B(0, 50, 100, 100);
 ```
 
-# Compatibility 
+## Build with 
 The code was written and tested on cocos2dx 3.9
 
-# Credits
+## Authors
 This code was ported from https://github.com/mrMakaronka/ios-2d-water-simulation
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
